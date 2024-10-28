@@ -60,28 +60,5 @@ The dataset used for this analysis contains job listings for Data Science roles 
 ### Word Cloud of Skills Found for Data Engineer role
 <img src="images/DataEngineerRole.png" width="500" height="400">
 
-## How to Use
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Aftabmallick/Data-Science-job-market-eda.git
-```
-
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Explore the Jupyter Notebooks in the `Notebooks` directory to understand the analysis process and findings.
-
-## Acknowledgments
-
-- The dataset used in this project was obtained from [source](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset).
-
-
-## Contributors
-
-- [Soujannya Deb](https://github.com/Soujannya-coder)
 
